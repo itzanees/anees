@@ -54,7 +54,7 @@ a:hover {
 .topContainer {
   background-color: #EAF6F6;
   padding-top: 50px;
-  position: relative;
+  position: fixed;
 }
 
 .middleContainer {
