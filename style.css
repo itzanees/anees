@@ -107,6 +107,9 @@ p{
   display: flex;
 }
 
+.exp{
+  text-align:center;
+}
 
 /* ___===---Contact page---===___ */
 .cont {
