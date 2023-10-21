@@ -86,7 +86,7 @@ p{
 }
 
 .link {
-  color: #28a745;
+  color: #28aaaa;
   transition: background-color 1s;
 }
 
@@ -154,26 +154,33 @@ p{
 @media only screen and (max-device-width: 667px) {
     
 
+   
     h1 {
-      font-size: 3rem;
+      font-size: 40px;
     }
 
     h3 {
-      font-size: 2.6rem;
+      font-size: 38px;
       padding-bottom: 100px;
     }
 
     h4 {
-      font-size: 2.4rem;
+      font-size: 34px;
       padding-bottom: 8px;
     }
 
     section {
-      font-size: 2.2rem;
+      font-size: 3rem;
+      padding: 2%;
     }
 
     p {
-      padding: 0 3%;
+        font-size: 28px;
+        padding: 0 3%;
+    }
+
+    li{
+        font-size: 25px;
     }
 
     .nav-link {
@@ -183,15 +190,16 @@ p{
     }
 
     .pic {
-      width: 400px;
+      width: 700px;
     }
 
-    .profile {
-      font-size: 2.2rem;
+    .profile p{
+        padding: 5px;
+        
     }
 
     .navbar-brand {
-      font-size: 2rem;
+      font-size: 3rem;
     }
 
    .cont .top h1{
